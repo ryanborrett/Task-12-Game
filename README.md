@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Minesweeper
+
+## Installation
+
+Download all the files into the same folder and then download the node_modules into the same folder as well.
+
+## Usage
+
+Use your console to go into the the project directory and run 'npm start'.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Credits
+
+Ryan Borrett
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
